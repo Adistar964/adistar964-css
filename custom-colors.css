@@ -7,10 +7,10 @@
 }
 
 /* deepink-section */
-.text-deepink{
+.text-pink{
   color: #FF1493;
 }
-.bg-deepink{
+.bg-pink{
  background: #FF1493;
 }
 
@@ -108,12 +108,12 @@
   border-color: #FF6347;
 }
 
-.btn-deepink{
+.btn-pink{
   color: white;
   background: #FF1493;
   border-color: #FF1493;
 }
-.btn-deepink:hover{
+.btn-pink:hover{
   color: white;
   background: #FF1493;
   border-color: #FF1493;
