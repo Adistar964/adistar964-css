@@ -70,8 +70,13 @@
 }
 
 .btn-turquoise{
+  color: white;
   background: #40E0D0;
   border-color: #40E0D0;
+}
+.btn-turquoise:hover{
   color: white;
+  background: #40E0D0;
+  border-color: #40E0D0;
 }
 
