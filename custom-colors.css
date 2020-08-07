@@ -108,3 +108,13 @@
   border-color: #FF6347;
 }
 
+.btn-deepink{
+  color: white;
+  background: #FF1493;
+  border-color: #FF1493;
+}
+.btn-deepink:hover{
+  color: white;
+  background: #FF1493;
+  border-color: #FF1493;
+}
