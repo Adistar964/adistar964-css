@@ -62,10 +62,16 @@
  background: #40E0D0;
 }
 
-/* btn-indigo-section */
+/* btn-section */
 .btn-indigo{
   background: #4B0082;
   border-color: #4B0082;
+  color: white;
+}
+
+.btn-turquoise{
+  background: #40E0D0;
+  border-color: #40E0D0;
   color: white;
 }
 
