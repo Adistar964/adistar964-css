@@ -69,6 +69,12 @@
   color: white;
 }
 
+.btn-indigo:hover{
+  color: white;
+  background: #4B0082;
+  border-color: #4B0082;
+}
+
 .btn-turquoise{
   color: white;
   background: #40E0D0;
@@ -78,5 +84,27 @@
   color: white;
   background: #40E0D0;
   border-color: #40E0D0;
+}
+
+.btn-outline-turquoise{
+  color: #40E0D0;
+  background: white;
+  border-color: #40E0D0;
+}
+.btn-outline-turquoise:hover{
+  color: white;
+  background: #40E0D0;
+  border-color: #40E0D0;
+}
+
+.btn-tomato{
+  color: white;
+  background: #FF6347;
+  border-color: #FF6347;
+}
+.btn-tomato:hover{
+  color: white;
+  background: #FF6347;
+  border-color: #FF6347;
 }
 
