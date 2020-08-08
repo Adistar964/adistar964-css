@@ -174,23 +174,23 @@
   border-color: #EE82EE;
 }
 
-.btn-violet{
+.btn-aqua{
   color: white;
   background: ##00FFFF;
   border-color: ##00FFFF;
 }
-.btn-violet:hover{
+.btn-aqua:hover{
   color: white;
   background: ##00FFFF;
   border-color: ##00FFFF;
 }
 
-.btn-outline-violet{
+.btn-outline-aqua{
   color: ##00FFFF;
   background: white;
   border-color: ##00FFFF;
 }
-.btn-outline-violet:hover{
+.btn-outline-aqua:hover{
   color: white;
   background: ##00FFFF;
   border-color: ##00FFFF;
