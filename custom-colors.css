@@ -186,9 +186,9 @@
 }
 
 .btn-outline-aqua{
-  color: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+  color: #FF69B4;
   background: white;
-  border-color: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+  border-color: #9932CC;
 }
 .btn-outline-aqua:hover{
   color: white;
