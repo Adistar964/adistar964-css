@@ -176,22 +176,22 @@
 
 .btn-aqua{
   color: white;
-  background: #00FFFF;
-  border-color: #00FFFF;
+  background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+  border-color: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
 }
 .btn-aqua:hover{
   color: white;
-  background: #00FFFF;
-  border-color: #00FFFF;
+  background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+  border-color: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
 }
 
 .btn-outline-aqua{
-  color: #00FFFF;
+  color: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
   background: white;
-  border-color: #00FFFF;
+  border-color: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
 }
 .btn-outline-aqua:hover{
   color: white;
-  background: #00FFFF;
-  border-color: #00FFFF;
+  background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+  border-color: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
 }
