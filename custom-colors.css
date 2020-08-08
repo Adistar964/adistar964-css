@@ -174,3 +174,24 @@
   border-color: #EE82EE;
 }
 
+.btn-violet{
+  color: white;
+  background: ##00FFFF;
+  border-color: ##00FFFF;
+}
+.btn-violet:hover{
+  color: white;
+  background: ##00FFFF;
+  border-color: ##00FFFF;
+}
+
+.btn-outline-violet{
+  color: ##00FFFF;
+  background: white;
+  border-color: ##00FFFF;
+}
+.btn-outline-violet:hover{
+  color: white;
+  background: ##00FFFF;
+  border-color: ##00FFFF;
+}
