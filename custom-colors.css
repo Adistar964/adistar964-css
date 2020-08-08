@@ -176,22 +176,22 @@
 
 .btn-aqua{
   color: white;
-  background: ##00FFFF;
-  border-color: ##00FFFF;
+  background: #00FFFF;
+  border-color: #00FFFF;
 }
 .btn-aqua:hover{
   color: white;
-  background: ##00FFFF;
-  border-color: ##00FFFF;
+  background: #00FFFF;
+  border-color: #00FFFF;
 }
 
 .btn-outline-aqua{
-  color: ##00FFFF;
+  color: #00FFFF;
   background: white;
-  border-color: ##00FFFF;
+  border-color: #00FFFF;
 }
 .btn-outline-aqua:hover{
   color: white;
-  background: ##00FFFF;
-  border-color: ##00FFFF;
+  background: #00FFFF;
+  border-color: #00FFFF;
 }
