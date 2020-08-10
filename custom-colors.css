@@ -195,3 +195,28 @@
   background:linear-gradient(to right, #cc33ff 0%, #33ccff 100%);
   border-color:linear-gradient(to right, #cc33ff 0%, #33ccff 100%);
 }
+
+
+/* bd-section */
+
+.bd-aqua{
+  border-image: linear-gradient(to right, #cc33ff 0%, #33ccff 100%);
+  border-image-slice: 1;
+}
+
+.bd-gradient-purple{
+  border-image: linear-gradient(to right, red, purple);
+  border-image-slice: 1;
+}
+.bd-turquoise{
+    border-image: #40E0D0;
+    border-image-slice: 1;
+}
+.bd-violet{
+    border-image: #EE82EE;
+    border-image-slice: 1;
+}
+.bd-tomato{
+  border-image: #FF6347;
+  border-image-slice: 1;
+}
