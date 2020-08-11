@@ -62,6 +62,15 @@
  background: #40E0D0;
 }
 
+/* aqua-section */
+.text-aqua{
+  color: linear-gradient(to right, #cc33ff 0%, #33ccff 100%);
+}
+.bg-aqua{
+  color: white;
+  background: linear-gradient(to right, #cc33ff 0%, #33ccff 100%);
+}
+
 /* btn-section */
 .btn-indigo{
   background: #4B0082;
