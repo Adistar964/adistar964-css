@@ -74,6 +74,7 @@
 .btn-indigo{
   background: #4B0082;
   border-color: #4B0082;
+  vertical-align:"middle";
   color: white;
 }
 
@@ -98,6 +99,7 @@
   color: white;
   background: #40E0D0;
   border-color: #40E0D0;
+  vertical-align:"middle";
 }
 .btn-turquoise:hover{
   color: white;
@@ -119,6 +121,7 @@
 .btn-tomato{
   color: white;
   background: #FF6347;
+  vertical-align:"middle";
   border-color: #FF6347;
 }
 .btn-tomato:hover{
@@ -141,6 +144,7 @@
 .btn-pink{
   color: white;
   background: #FF1493;
+  vertical-align:"middle";
   border-color: #FF1493;
 }
 .btn-pink:hover{
@@ -161,6 +165,7 @@
 }
 
 .btn-violet{
+  vertical-align:"middle";
   color: white;
   background: #EE82EE;
   border-color: #EE82EE;
@@ -184,6 +189,7 @@
 
 .btn-aqua{
   color: white;
+  vertical-align:"middle";
   background: linear-gradient(to right, #cc33ff 0%, #33ccff 100%);
   border-color:linear-gradient(to right, #cc33ff 0%, #33ccff 100%);
 }
